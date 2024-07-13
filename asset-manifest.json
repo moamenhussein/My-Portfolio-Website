@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Portfolio-Website/static/css/main.d4868ecf.css",
-    "main.js": "/My-Portfolio-Website/static/js/main.97076928.js",
+    "main.css": "/My-Portfolio-Website/static/css/main.c84d56c4.css",
+    "main.js": "/My-Portfolio-Website/static/js/main.e7f12d9c.js",
     "static/js/453.1407b060.chunk.js": "/My-Portfolio-Website/static/js/453.1407b060.chunk.js",
     "static/media/project27.png": "/My-Portfolio-Website/static/media/project27.fee405008e934ea7aca4.png",
     "static/media/Quraan.png": "/My-Portfolio-Website/static/media/Quraan.c0af930cb17777d656f5.png",
@@ -32,12 +32,12 @@
     "index.html": "/My-Portfolio-Website/index.html",
     "static/media/css.svg": "/My-Portfolio-Website/static/media/css.92e032c21b0dd656b441296568d8c0c4.svg",
     "static/media/html5.a7362949.svg": "/My-Portfolio-Website/static/media/html5.a7362949.bd96c311c435d77bf1cb676aeb051cf3.svg",
-    "main.d4868ecf.css.map": "/My-Portfolio-Website/static/css/main.d4868ecf.css.map",
-    "main.97076928.js.map": "/My-Portfolio-Website/static/js/main.97076928.js.map",
+    "main.c84d56c4.css.map": "/My-Portfolio-Website/static/css/main.c84d56c4.css.map",
+    "main.e7f12d9c.js.map": "/My-Portfolio-Website/static/js/main.e7f12d9c.js.map",
     "453.1407b060.chunk.js.map": "/My-Portfolio-Website/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4868ecf.css",
-    "static/js/main.97076928.js"
+    "static/css/main.c84d56c4.css",
+    "static/js/main.e7f12d9c.js"
   ]
 }
