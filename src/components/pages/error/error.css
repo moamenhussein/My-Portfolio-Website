@@ -1,0 +1,21 @@
+.error {
+  padding-top: 60px;
+  height: 43vh;
+  background-color: var(--body-color);
+}
+.error h3 {
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+}
+@media(max-width: 990px) {
+  .error h3 {
+    font-size: 18px;
+  }
+}

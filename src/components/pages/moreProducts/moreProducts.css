@@ -1,0 +1,374 @@
+.more {
+  padding-top: 60px;
+  background-color: var(--body-color);
+  padding-bottom: 80px;
+}
+.more .info {
+  text-align: center;
+  padding-top: 40px;
+  color: white;
+}
+.more .info h2 {
+  position: relative;
+  width: fit-content;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+}
+.more .info h2::after {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 3px;
+  bottom: -8px;
+  left: 0;
+  background-color: #f3f0ca;
+}
+.more .info p {
+  margin-top: 20px;
+  font-size: 30px;
+}
+@media(max-width: 990px) {
+  .more .info p {
+    font-size: 22px;
+  }
+  .portolio .container .box {
+    margin-left: 16px;
+  }
+}
+.portolio .info {
+  margin-top: 50px;
+  text-align: center;
+  color: white;
+}
+.project_html {
+  margin-top: 50px;
+  padding: 5px;
+}
+.more-project .more {
+  color: white;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  background-color: var(--nav-color);
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+.portolio .info h2 {
+  position: relative;
+  font-size: 35px;
+  padding: 5px;
+  border-bottom: 4px solid #f3f0ca;
+  width: fit-content;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+}
+.portolio .info p {
+  font-size: 20px;
+  padding-top: 5px;
+  color: rgb(240, 240, 240);
+}
+.portolio .container {
+  width: 100%;
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  margin-top: 2%;
+}
+.portolio .container .box {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  width: 350px;
+  height: 350px;
+}
+.portolio .container .box img {
+  position: relative;
+  max-width: 100%;
+  max-height: 100%;
+}
+.portolio .container .box .information {
+  position: relative;
+  top: -15%;
+  background-color: #292a2d;
+  color: white;
+  padding-bottom: 8px;
+}
+.portolio .container .box .information .info {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 5px;
+}
+.portolio .container .box .information .info.type::before,
+.portolio .container .box .information .info.crud::before,
+.portolio .container .box .information .info.hangman::before {
+  content: "";
+  position: absolute;
+  width: calc(100% - 10px);
+  height: 5px;
+  left: 50%;
+  bottom: -7px;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+.portolio .container .box .information .info.type::before {
+  background-image: linear-gradient(
+    to right,
+    #2965f1 40%,
+    #2965f1 60%,
+    #e34f26 60%,
+    #e34f26 80%,
+    #f7df1e 80%
+  );
+}
+.portolio .container .box .information .info.crud::before {
+  background-image: linear-gradient(
+    to right,
+    #2965f1 10%,
+    #2965f1 30%,
+    #e34f26 30%,
+    #e34f26 60%,
+    #f7df1e 60%,
+    #f7df1e 100%
+  );
+}
+.portolio .container .box .information .info.hangman::before {
+  background-image: linear-gradient(
+    to right,
+    #2965f1 10%,
+    #2965f1 30%,
+    #e34f26 30%,
+    #e34f26 60%,
+    #f7df1e 60%,
+    #f7df1e 100%
+  );
+}
+.portolio .container .box .information .info p:first-child {
+  font-size: 18px;
+  font-weight: bold;
+}
+.dash {
+  color: #009688;
+}
+.portolio .container .box .skill {
+  display: flex;
+  font-size: 15px;
+  justify-content: space-between;
+  padding: 20px;
+  text-align: center;
+}
+.portolio .container .box .skill .html,
+.portolio .container .box .skill .css,
+.portolio .container .box .skill .js {
+  position: relative;
+}
+.portolio .container .box .skill .html::before {
+  background-color: #e34f26;
+}
+.portolio .container .box .skill .css::before {
+  background-color: #2965f1;
+}
+.portolio .container .box .skill .js::before {
+  background-color: #f7df1e;
+}
+.portolio .container .box .skill .html::before,
+.portolio .container .box .skill .css::before,
+.portolio .container .box .skill .js::before {
+  position: absolute;
+  content: "";
+  width: 8px;
+  height: 8px;
+  left: -15px;
+  top: 5px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.portolio .container .box .sillsLogo {
+  text-align: center;
+  padding-bottom: 10px;
+}
+.portolio .container .box .sillsLogo i {
+  padding: 8px;
+}
+.portolio .container .box .sillsLogo .html {
+  color: #e34f26;
+}
+.portolio .container .box .sillsLogo .css {
+  color: #2965f1;
+}
+.portolio .container .box .sillsLogo .js {
+  color: #f7df1e;
+}
+.showproject {
+  border: none;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+}
+.showproject a {
+  display: block;
+  padding: 5px;
+  background-color: var(--body-color);
+  color: white;
+  font-weight: bold;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+
+.portolio {
+  margin-top: 100px;
+}
+.portProject {
+  border-bottom: 3px solid #80b3ff;
+}
+.myinformation {
+  background-color: #e1aa74;
+}
+.myinformation.dark {
+  background-color: #444;
+}
+.myinformation .container {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 50px 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 10px;
+}
+.myinformation .container .info h2 a {
+  color: var(--body-color);
+  font-size: 30px;
+  font-weight: bold;
+}
+.myinformation .container .info h2 a.dark {
+  color: white;
+}
+.myinformation .container .info ul {
+  padding: 15px;
+  display: flex;
+}
+.myinformation .container .info ul li a i {
+  margin: 0 5px;
+  font-size: 25px;
+}
+.whats {
+  margin-left: 5px;
+  font-size: 25px;
+}
+.myinformation .container .info p {
+  color: white;
+  font-size: 22px;
+  width: 400px;
+  text-align: center;
+}
+.myinformation .container .Business {
+  padding-top: 10px;
+}
+.myinformation .container .Business .box {
+  display: flex;
+  padding-bottom: 30px;
+  font-size: 20px;
+}
+.myinformation .container .Business .box i {
+  padding-right: 15px;
+  color: var(--nav-color);
+}
+.myinformation .container .Business .box i.dark {
+  color: white;
+}
+.myinformation .container .Business .box p {
+  color: white;
+}
+.dot {
+  color: #9a4444;
+}
+.icons {
+  width: 200px;
+}
+.icons img {
+  width: 50px;
+  margin-left: 5px;
+}
+.myinformation.dark {
+  background-color: #222;
+}
+.myinformation .info h2 a.dark {
+  color: white;
+}
+@media (max-width: 700px) {
+  .myinformation .container {
+    padding-left: 10px;
+  }
+  .myinformation .container .info h2 a {
+    font-size: 20px;
+  }
+  .myinformation .container .info ul li a i,
+  .whats,
+  .myinformation .container .Business .box p {
+    font-size: 15px;
+  }
+  .myinformation .container .info p {
+    font-size: 15px;
+    width: 350px;
+  }
+  .icons img {
+    width: 35px;
+  }
+}
+.moreProjectInGithub {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 22px;
+  color: white;
+  font-weight: bold;
+}
+.moreProjectInGithub span a {
+  color: #6e5494;
+}
