@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio-Website/static/css/main.d4868ecf.css",
+    "main.js": "/My-Portfolio-Website/static/js/main.97076928.js",
+    "static/js/453.1407b060.chunk.js": "/My-Portfolio-Website/static/js/453.1407b060.chunk.js",
+    "static/media/project27.png": "/My-Portfolio-Website/static/media/project27.fee405008e934ea7aca4.png",
+    "static/media/Quraan.png": "/My-Portfolio-Website/static/media/Quraan.c0af930cb17777d656f5.png",
+    "static/media/Kasper.png": "/My-Portfolio-Website/static/media/Kasper.aef15a7eb74a944af086.png",
+    "static/media/Coffee.PNG": "/My-Portfolio-Website/static/media/Coffee.d4e720cf47a9e6ea0910.PNG",
+    "static/media/e-commerce.PNG": "/My-Portfolio-Website/static/media/e-commerce.bcda96d7f903b6379d79.PNG",
+    "static/media/skillsWebsite.PNG": "/My-Portfolio-Website/static/media/skillsWebsite.d7ef719541a3bff745ec.PNG",
+    "static/media/person.png": "/My-Portfolio-Website/static/media/person.63cfcd8d81a3c619a637.png",
+    "static/media/HospitalSystem.PNG": "/My-Portfolio-Website/static/media/HospitalSystem.e64e8ef1b1a9cbee1018.PNG",
+    "static/media/project28.png": "/My-Portfolio-Website/static/media/project28.2fd4bff12706cc57027c.png",
+    "static/media/plans.png": "/My-Portfolio-Website/static/media/plans.cc01235b3660554b6b29.png",
+    "static/media/project1.png": "/My-Portfolio-Website/static/media/project1.0c21543090047e5524e1.png",
+    "static/media/Bootstrap.png": "/My-Portfolio-Website/static/media/Bootstrap.6d958c3288868f30e7f2.png",
+    "static/media/education.jpg": "/My-Portfolio-Website/static/media/education.0eecfbceff6b8488d678.jpg",
+    "static/media/QuizApp.png": "/My-Portfolio-Website/static/media/QuizApp.df3ececc8e13491b9562.png",
+    "static/media/project5.png": "/My-Portfolio-Website/static/media/project5.b7b44ef29ddba75303bb.png",
+    "static/media/project4.png": "/My-Portfolio-Website/static/media/project4.7dcf311b7181944aa2b9.png",
+    "static/media/imageEditor.png": "/My-Portfolio-Website/static/media/imageEditor.a2895619b4e7c267fbe2.png",
+    "static/media/X-O Game.png": "/My-Portfolio-Website/static/media/X-O Game.697bd5449d6d847a4051.png",
+    "static/media/contact.png": "/My-Portfolio-Website/static/media/contact.4970f76bc8676c96fd8c.png",
+    "static/media/scan-code.jpg": "/My-Portfolio-Website/static/media/scan-code.7eeccedc10ecb3f71600.jpg",
+    "static/media/logo.svg": "/My-Portfolio-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/github.16ac66a4.svg": "/My-Portfolio-Website/static/media/github.16ac66a4.f3c95b3bb6cfeed3a79bfbb844a85474.svg",
+    "static/media/react.dcb621ad.svg": "/My-Portfolio-Website/static/media/react.dcb621ad.5f069dab78bdae40bcea037edafbefc4.svg",
+    "static/media/chrome.67b19d85.svg": "/My-Portfolio-Website/static/media/chrome.67b19d85.f16e81dc09940d47cd2e5512eaa60353.svg",
+    "static/media/javascript.svg": "/My-Portfolio-Website/static/media/javascript.27ed4adc234cec67c3f7612457f1fb8b.svg",
+    "static/media/git.7d475742.svg": "/My-Portfolio-Website/static/media/git.7d475742.390ae0233ebe6f93ef1d00a178402c4d.svg",
+    "index.html": "/My-Portfolio-Website/index.html",
+    "static/media/css.svg": "/My-Portfolio-Website/static/media/css.92e032c21b0dd656b441296568d8c0c4.svg",
+    "static/media/html5.a7362949.svg": "/My-Portfolio-Website/static/media/html5.a7362949.bd96c311c435d77bf1cb676aeb051cf3.svg",
+    "main.d4868ecf.css.map": "/My-Portfolio-Website/static/css/main.d4868ecf.css.map",
+    "main.97076928.js.map": "/My-Portfolio-Website/static/js/main.97076928.js.map",
+    "453.1407b060.chunk.js.map": "/My-Portfolio-Website/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4868ecf.css",
+    "static/js/main.97076928.js"
+  ]
+}
